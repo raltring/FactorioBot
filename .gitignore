@@ -1,7 +1,8 @@
 # User specified files
 
 # User specified directories
-
+.vs
+.vscode
 # User-specific files
 
 # Build results
