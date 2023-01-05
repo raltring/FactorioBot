@@ -1,4 +1,4 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
-
+    "code-runner.executorMap": {
+        "lua": "C:\\Users\\ralt6\\Lua\\bin\\lua.exe"}
 }
