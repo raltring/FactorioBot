@@ -1,0 +1,9 @@
+{
+    "name":             "factorio-bot",
+    "version":          "0.0.1",
+    "title":            "Factorio Bot",
+    "author":            "ralt6",
+    "factorio_version": "1.1",
+    "dependencies":     ["base >= 1.1"],
+    "description":      "Mod adds independent AI to user character"
+}
